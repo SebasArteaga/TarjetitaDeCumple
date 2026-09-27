@@ -1,0 +1,9 @@
+MÚSICA DE LA TARJETA
+
+El archivo musica.mp3 ya está incluido en esta carpeta.
+Ruta utilizada en index.html: assets/musica.mp3
+La canción comienza al abrir el sobre, mediante clic, toque o teclado.
+El volumen inicial es 50%.
+La nota musical despliega los controles para pausar, reanudar, reiniciar y cambiar el volumen.
+Cerrar el menú de música no interrumpe la reproducción.
+Para cambiar la canción, sustituye musica.mp3 por otro archivo MP3 con el mismo nombre.
